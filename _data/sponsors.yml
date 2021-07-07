@@ -1,12 +1,43 @@
---- 
+---
+platinum:
+  -
+    alt-text: "Atlassian"
+    class: "Platinum"
+    description: >
+      Creating software that empowers everyone from small startups to the who’s who of tech is why we’re here. We build tools like Jira, Confluence, Bitbucket, and Trello to help teams across the world become more nimble, creative, and aligned—collaboration is the heart of every product we dream of at Atlassian. From Amsterdam and Austin, to Sydney and San Francisco, we’re looking for people who want to write the future and who believe that we can accomplish so much more together than apart. At Atlassian, we’re committed to an environment where everyone has the autonomy and freedom to thrive, as well as the support of like-minded colleagues who are motivated by a common goal to - Unleash the potential of every team.
+    link: "https://www.atlassian.com/"
+    photo: Atlassian-horizontal-blue@2x-rgb.png
+
+learning partner:
+  -
+    alt-text: "ISB INSTITUTE OF DATA SCIENCE (IIDS)"
+    class: "Learning Partner"
+    description: >
+      The ISB Institute of Data Science researches in different domains of business analytics and data science; organises conferences and workshops, to designs and delivers the short and long duration programmes for working professionals in Machine Learning, Artificial Intelligence, and Data Science applications in business. Its flagship, Advanced Management Programme in Business Analytics (AMPBA) equips professionals with the skills of a business analyst and data scientist, beginning with statistical analysis, and going up to machine learning and application of analytics in business. The institute provides data analytics support to various departments, research centres and institutes at ISB.
+      
+      Also, IIDS aims to designs and develop AI and analytics solutions to industry to address complex business problems.
+    link: "https://www.isb.edu/advanced-management-programme-in-business-analytics"
+    photo: IIDS.png
+
 gold:
   - 
-    alt-text: "pramati"
+    alt-text: "Pramati"
     class: "gold"
     description: >-
       Pramati Technologies, a privately held software company, builds independent technology businesses focused on profitable, well-defined markets in digital, social, mobile, and cloud computing. Among its ventures are the low-code platform WaveMaker Inc., the micro apps management  platform SpotCues Inc., and the enterprise innovation services company Imaginea Technologies Inc. Pramati seeds ideas through its Mountain View based startup accelerator arm, Pramati Prism that nurtures and scales them into profitable ventures. The portfolio includes the strong authentication service provider ThumbSignin, the next-gen app deployment platform HyScale, micro-conversions solution Chatlets.ai, and the API management platform Apitive.
     link: "https://www.pramati.com/"
     photo: pramati.png
+
+  - 
+    alt-text: "Fossee"
+    class: "gold"
+    description: >-
+      <p>FOSSEE (Free and Open Source Software in Education) Project promotes the use of FLOSS (Free/ Libre and Open Source Software) tools to improve the quality of education in our country. We aim to reduce dependency on proprietary software in educational institutions. We encourage the use of FLOSS tools through various activities such as Textbook Companions, Lab Migration, Workshops, Conferences, Forums, Software Development and Others. We develop and upgrade existing tools to meet the requirements of academia and research. We also offer Summer Fellowship to students and give them an opportunity to work with FLOSS.</p>
+      
+      <p>The FOSSEE project is based at the Indian Institute of Technology Bombay (IITB) and is funded by the National Mission on Education through Information and Communication Technology (ICT), Ministry of Human Resources and Development, Government of India.</p>
+    link: "https://fossee.in/"
+    photo: fossee_logo.png
+
 silver: 
   - 
     alt-text: "deepsource"
@@ -27,16 +58,6 @@ silver:
     link: "https://pipal.in"
     photo: pipal.png
 
-community partner: 
-  - 
-    alt-text: "aws"
-    class: "community partner"
-    description: >-
-      For 10 years, Amazon Web Services has been the world’s most comprehensive and broadly adopted cloud platform. AWS offers over 90 fully featured services for compute, storage, databases, analytics, mobile, Internet of Things (IoT) and enterprise applications from 42 Availability Zones (AZs) across 16 geographic regions in the U.S., Australia, Brazil, Canada, China, Germany, India, Ireland, Japan, Korea, Singapore, and the UK. AWS services are trusted by millions of active customers around the world monthly -- including the fastest growing startups, largest enterprises, and leading government agencies -- to power their infrastructure, make them more agile, and lower costs. To learn more about AWS, visit https://aws.amazon.com.
-      
-    link: "https://aws.amazon.com"
-    photo: AWS_logo_RGB.png
-
 associate:
   - 
     alt-text: "Python Weekly Learning"
@@ -50,6 +71,24 @@ associate:
     link: "http://WeeklyPythonExercise.com/"
     photo: wpe-logo.svg
 
+  -
+    alt-text: "Zentropy"
+    class: "Associate"
+    description: >
+      Zentropy is a financial technology company that aims to disrupt capital market space with niche engineering, technology, and processes. Zentropy's focus is on providing custom technology platform solutions and consulting services that require a deep understanding of market microstructure, financial security data modeling, and machine learning techniques.  Zentropy's expertise lies in developing trading systems, data warehouses, and cloud-based scalable infrastructure. 
+    link: "https://www.zentropytech.com/"
+    photo: zentropy.png
+
+community partner: 
+  - 
+    alt-text: "aws"
+    class: "community partner"
+    description: >-
+      For 10 years, Amazon Web Services has been the world’s most comprehensive and broadly adopted cloud platform. AWS offers over 90 fully featured services for compute, storage, databases, analytics, mobile, Internet of Things (IoT) and enterprise applications from 42 Availability Zones (AZs) across 16 geographic regions in the U.S., Australia, Brazil, Canada, China, Germany, India, Ireland, Japan, Korea, Singapore, and the UK. AWS services are trusted by millions of active customers around the world monthly -- including the fastest growing startups, largest enterprises, and leading government agencies -- to power their infrastructure, make them more agile, and lower costs. To learn more about AWS, visit https://aws.amazon.com.
+      
+    link: "https://aws.amazon.com"
+    photo: AWS_logo_RGB.png
+
 inkind:
   - 
     alt-text: Manning
@@ -57,3 +96,27 @@ inkind:
     description: "Manning is an independent publisher of computer books for software developers, engineers, architects, system administrators, managers and all who are professionally involved with the computer business. The books we publish cover a huge range of topics that the modern developer needs; from languages and frameworks, to best practices for team leaders."
     link: "https://www.manning.com/"
     photo: manning.png
+
+  - 
+    alt-text: JetBrains
+    class: "In Kind"
+    description: ""
+    link: "https://www.jetbrains.com/"
+    photo: jetbrains.png
+
+venue partner:
+  - 
+    alt-text: IIIT Hyderabad
+    class: "Venue Partner"
+    description: ""
+    link: "https://www.iiit.ac.in/"
+    photo: iiith.png
+
+meal partner:
+  - 
+    alt-text: GreenBox
+    class: "Meal Partner"
+    description: >
+      Health In a Box - The Green Box is Hyderabad's premier gourmet food delivery service. At The Green Box, we aim to bring about a lifestyle change by providing well-balanced nutritious meals for a healthier, lighter and happier you! After months of intensive experimentation, our team of chefs and dieticians has designed meal plans that are not only healthy but also tasty.
+    link: "http://www.thegreenbox.co/"
+    photo: greenbox.png
